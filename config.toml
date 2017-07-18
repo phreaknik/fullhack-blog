@@ -1,4 +1,4 @@
-baseurl = "https://www.fullhack.io/"
+baseurl = "https://phreaknik.github.io/fullhack-blog/"
 languageCode = "en-us"
 title = "Full-hack Engineering Blog"
 theme = "blackburn"

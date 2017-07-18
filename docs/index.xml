@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Full-hack Engineering Blog</title>
-    <link>https://www.fullhack.io/</link>
+    <link>https://phreaknik.github.io/fullhack-blog/</link>
     <description>Recent content on Full-hack Engineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017, John Boyd IV.&lt;br&gt; All rights reserved.</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.fullhack.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phreaknik.github.io/fullhack-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://www.fullhack.io/post/creating-a-new-theme/</link>
+      <link>https://phreaknik.github.io/fullhack-blog/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.fullhack.io/post/creating-a-new-theme/</guid>
+      <guid>https://phreaknik.github.io/fullhack-blog/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.fullhack.io/about/</link>
+      <link>https://phreaknik.github.io/fullhack-blog/about/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.fullhack.io/about/</guid>
+      <guid>https://phreaknik.github.io/fullhack-blog/about/</guid>
       <description>Hello! My name is John Boyd. I am an electrical engineer by trade and a hacker at heart. I worked as an analog &amp;amp; mixed signal design engineer in the semiconductor industry for a few years, but later my career followed my personal passion for embedded systems. I now work as CTO and lead hardware engineer at Knocki, a fun startup trying new ideas in the IoT space.
 I have created this blog as a place to document my journies through technology development and hardware hacking.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://www.fullhack.io/contact/</link>
+      <link>https://phreaknik.github.io/fullhack-blog/contact/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.fullhack.io/contact/</guid>
+      <guid>https://phreaknik.github.io/fullhack-blog/contact/</guid>
       <description>Feel free to reach me at johnboydiv@gmail.com or connect with me on LinkedIn.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://www.fullhack.io/post/goisforlovers/</link>
+      <link>https://phreaknik.github.io/fullhack-blog/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.fullhack.io/post/goisforlovers/</guid>
+      <guid>https://phreaknik.github.io/fullhack-blog/post/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://www.fullhack.io/post/hugoisforlovers/</link>
+      <link>https://phreaknik.github.io/fullhack-blog/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.fullhack.io/post/hugoisforlovers/</guid>
+      <guid>https://phreaknik.github.io/fullhack-blog/post/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
