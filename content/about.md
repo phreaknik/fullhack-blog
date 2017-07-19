@@ -5,7 +5,11 @@ sidemenu = "true"
 description = "About me and this site"
 +++
 
-![John Boyd](/img/headshot.png)
+{{< img-post 
+    path="/img/"
+    file="headshot.png"
+    alt="John Boyd headshot photo"
+    type="center" >}}
 
 Hello! My name is John Boyd. I am an electrical engineer by trade and a hacker at heart. I worked in the semiconductor industry for a few years as an analog & mixed signal design engineer, but lately my career has followed my passion for embedded systems design. I now work as CTO and lead hardware engineer at <a href="https://www.knocki.com/" target="_blank">Knocki</a>, a fun startup trying new ideas in the IoT space.
 
