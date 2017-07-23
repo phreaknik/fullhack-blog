@@ -74,16 +74,16 @@
 <!-- Part 3 -->
 
     {{ if eq $type "left" }}
-        <span class="image left">
+        <div style="float:left">
             <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}" />
-        </span>
+        </div>
     {{ else if eq $type "right" }}
-        <span class="image right">
+        <div style="float:right">
             <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}" />
-        </span>
+        </div>
     {{ else }}
-        <p><span class="image center-image">
+        <div style="text-align:center">
             <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}" />
-        </span></p>
+        </div>
     {{ end }}
 {{ end }}
