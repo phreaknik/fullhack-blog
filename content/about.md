@@ -26,4 +26,4 @@ I have created this blog as a place to document my journies through technology d
 * Mathematics
 * 3D Printing
 
-Enjoy :)
+I hope you enjoy these projects as much as I do!
