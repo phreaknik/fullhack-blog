@@ -1,6 +1,8 @@
 +++
-title = "New Post"
+title = ""
 description = ""
-date = "2014-04-02"
+date = ""
+categories = []
 tags = []
+thumbnail = ""
 +++
