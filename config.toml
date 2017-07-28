@@ -1,57 +1,55 @@
 baseurl = "https://phreaknik.github.io/fullhack-blog/"
 languageCode = "en-us"
-title = "blog.johnboyd.io"
-paginate = "10" # Number of posts per page
-theme = "Mainroad"
+title = "Full-hack Engineering Blog"
+theme = "blackburn"
+author = "John Boyd IV"
 copyright = "&copy; 2017, John Boyd IV.<br> All rights reserved."
 canonifyurls = true
-googleAnalytics = "Your Google Analytics tracking ID"
-disqus = "fullhackblog"
+paginate = 10
 publishDir = "docs"
 
-[Author]
-    author = "John Boyd IV"
-    bio = "John Boyd's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-    avatar = "img/headshot.png"
+[indexes]
+  tag = "tags"
+  topic = "topics"
 
-[Params]
-    subtitle = "Solder, code and GPIOs."
-    description = " John Doe's Personal blog about everything" # Description of your site
-    opengraph = true
-    readmore = true # Show "Read more" button in list if true
-    leftsidebar = false # Move sidebar to the left side if true
-    authorbox = false
-    post_navigation = true
-    postSections = ["post"]
-
-[Params.widgets]
-    search = true # Enable "Search" widget
-    recent_articles = true # Enable "Recent arcticles" widget
-    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
-    categories = true # Enable "Categories" widget
-    tags = true # Enable "Tags" widget
-    tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
-    social = true # Enable "Social" widget
-    social_linkedin = "john-boyd-iv"
-    social_github = "phreaknik"
-    social_email = "johnboydiv@gmail.com"
+[params]
+  # Shown in the home page
+  subtitle = "Solder, code and GPIOs."
+  brand = "FullHack.io"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "fullhackblog"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
 
 [menu]
   # Shown in the side menu.
   [[menu.main]]
     name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
     url = "/"
   [[menu.main]]
     name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 2
+    identifier = "post"
     url = "/post/"
   [[menu.main]]
     name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 3
+    identifier = "about"
     url = "/about/"
   [[menu.main]]
     name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 4
     url = "/contact/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  github = "phreaknik"
+  linkedin = "john-boyd-iv"
