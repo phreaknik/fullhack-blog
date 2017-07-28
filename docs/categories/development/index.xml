@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on blog.johnboyd.io</title>
-    <link>https://phreaknik.github.io/fullhack-blog/tags/development/index.xml</link>
+    <link>https://phreaknik.github.io/fullhack-blog/categories/development/index.xml</link>
     <description>Recent content in Development on blog.johnboyd.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017, John Boyd IV.&lt;br&gt; All rights reserved.</copyright>
-    <atom:link href="https://phreaknik.github.io/fullhack-blog/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://phreaknik.github.io/fullhack-blog/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>(Hu)go Template Primer</title>
