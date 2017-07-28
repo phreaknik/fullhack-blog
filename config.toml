@@ -18,7 +18,7 @@ publishDir = "docs"
     subtitle = "Solder, code and GPIOs."
     description = " John Doe's Personal blog about everything" # Description of your site
     opengraph = true
-    readmore = false # Show "Read more" button in list if true
+    readmore = true # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true
     authorbox = false
     post_navigation = true
@@ -40,18 +40,18 @@ publishDir = "docs"
   # Shown in the side menu.
   [[menu.main]]
     name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
     url = "/"
   [[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    name = "Posts"
     weight = 2
-    identifier = "about"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    weight = 3
     url = "/about/"
   [[menu.main]]
     name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 3
+    weight = 4
     url = "/contact/"
