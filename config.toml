@@ -1,6 +1,6 @@
 baseurl = "https://phreaknik.github.io/fullhack-blog/"
 languageCode = "en-us"
-title = "Full-hack Engineering Blog"
+title = "blog.johnboyd.io"
 theme = "blackburn"
 author = "John Boyd IV"
 copyright = "&copy; 2017, John Boyd IV.<br> All rights reserved."
@@ -14,8 +14,8 @@ publishDir = "docs"
 
 [params]
   # Shown in the home page
-  subtitle = "Solder, code and GPIOs."
-  brand = "FullHack.io"
+  subtitle = "Solder | Code | GPIOs"
+  brand = "John Boyd IV"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "fullhackblog"
   # CSS name for highlight.js
