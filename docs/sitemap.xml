@@ -1,80 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.johnboyd.io/post/creating-a-new-theme/</loc>
+    <loc>http://blog.johnboyd.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/about/</loc>
+    <loc>http://blog.johnboyd.io/about/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/contact/</loc>
+    <loc>http://blog.johnboyd.io/contact/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/post/goisforlovers/</loc>
+    <loc>http://blog.johnboyd.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/post/hugoisforlovers/</loc>
+    <loc>http://blog.johnboyd.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.johnboyd.io/tags/go/</loc>
+    <loc>http://blog.johnboyd.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/tags/golang/</loc>
+    <loc>http://blog.johnboyd.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/tags/hugo/</loc>
+    <loc>http://blog.johnboyd.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/post/</loc>
+    <loc>http://blog.johnboyd.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/tags/</loc>
+    <loc>http://blog.johnboyd.io/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/tags/templates/</loc>
+    <loc>http://blog.johnboyd.io/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/tags/themes/</loc>
+    <loc>http://blog.johnboyd.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.johnboyd.io/</loc>
+    <loc>http://blog.johnboyd.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.johnboyd.io/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.johnboyd.io/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
