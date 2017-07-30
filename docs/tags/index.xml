@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Full-hack Engineering Blog</title>
-    <link>https://phreaknik.github.io/fullhack-blog/tags/</link>
-    <description>Recent content in Tags on Full-hack Engineering Blog</description>
+    <title>Tags on blog.johnboyd.io</title>
+    <link>http://blog.johnboyd.io/tags/</link>
+    <description>Recent content in Tags on blog.johnboyd.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017, John Boyd IV.&lt;br&gt; All rights reserved.</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://phreaknik.github.io/fullhack-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.johnboyd.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://phreaknik.github.io/fullhack-blog/tags/development/</link>
+      <link>http://blog.johnboyd.io/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://phreaknik.github.io/fullhack-blog/tags/development/</guid>
+      <guid>http://blog.johnboyd.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://phreaknik.github.io/fullhack-blog/tags/go/</link>
+      <link>http://blog.johnboyd.io/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://phreaknik.github.io/fullhack-blog/tags/go/</guid>
+      <guid>http://blog.johnboyd.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://phreaknik.github.io/fullhack-blog/tags/golang/</link>
+      <link>http://blog.johnboyd.io/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://phreaknik.github.io/fullhack-blog/tags/golang/</guid>
+      <guid>http://blog.johnboyd.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://phreaknik.github.io/fullhack-blog/tags/hugo/</link>
+      <link>http://blog.johnboyd.io/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://phreaknik.github.io/fullhack-blog/tags/hugo/</guid>
+      <guid>http://blog.johnboyd.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://phreaknik.github.io/fullhack-blog/tags/templates/</link>
+      <link>http://blog.johnboyd.io/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://phreaknik.github.io/fullhack-blog/tags/templates/</guid>
+      <guid>http://blog.johnboyd.io/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://phreaknik.github.io/fullhack-blog/tags/themes/</link>
+      <link>http://blog.johnboyd.io/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://phreaknik.github.io/fullhack-blog/tags/themes/</guid>
+      <guid>http://blog.johnboyd.io/tags/themes/</guid>
       <description></description>
     </item>
     

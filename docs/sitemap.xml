@@ -1,81 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/post/creating-a-new-theme/</loc>
+    <loc>http://blog.johnboyd.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/about/</loc>
+    <loc>http://blog.johnboyd.io/about/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/contact/</loc>
+    <loc>http://blog.johnboyd.io/contact/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/post/goisforlovers/</loc>
+    <loc>http://blog.johnboyd.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/post/hugoisforlovers/</loc>
+    <loc>http://blog.johnboyd.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/tags/development/</loc>
+    <loc>http://blog.johnboyd.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/</loc>
+    <loc>http://blog.johnboyd.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.johnboyd.io/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.johnboyd.io/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.johnboyd.io/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/tags/go/</loc>
+    <loc>http://blog.johnboyd.io/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/tags/golang/</loc>
+    <loc>http://blog.johnboyd.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/tags/hugo/</loc>
+    <loc>http://blog.johnboyd.io/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/post/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.johnboyd.io/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://phreaknik.github.io/fullhack-blog/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.johnboyd.io/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

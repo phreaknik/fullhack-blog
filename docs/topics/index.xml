@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on Full-hack Engineering Blog</title>
-    <link>https://phreaknik.github.io/fullhack-blog/topics/</link>
-    <description>Recent content in Topics on Full-hack Engineering Blog</description>
+    <title>Topics on blog.johnboyd.io</title>
+    <link>http://blog.johnboyd.io/topics/</link>
+    <description>Recent content in Topics on blog.johnboyd.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017, John Boyd IV.&lt;br&gt; All rights reserved.</copyright>
     
-	<atom:link href="https://phreaknik.github.io/fullhack-blog/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.johnboyd.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
