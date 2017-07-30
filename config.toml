@@ -47,6 +47,11 @@ publishDir = "docs"
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 4
     url = "/contact/"
+  [[menu.main]]
+    name = "Resume"
+    pre = "<i class='fa fa-id-card-o fa-fw'></i>"
+    weight = 5
+    url = "http://resume.johnboyd.io/"
 
 [social]
   # Link your social networking accouns to the side menu
