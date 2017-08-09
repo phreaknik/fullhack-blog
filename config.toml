@@ -1,6 +1,6 @@
 baseurl = "http://blog.johnboyd.io/"
 languageCode = "en-us"
-title = "blog.johnboyd.io"
+title = "Project Logs"
 theme = "blackburn"
 author = "John Boyd IV"
 copyright = "&copy; 2017, John Boyd IV.<br> All rights reserved."
