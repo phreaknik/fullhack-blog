@@ -17,7 +17,7 @@ publishDir = "docs"
   subtitle = "Solder | Code | GPIOs"
   brand = "John Boyd IV"
   googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "fullhackblog"
+  disqus = "blog-johnboyd-io"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006"
