@@ -19,7 +19,7 @@ I have recently spent a bit of time improving my online presence. Given this, it
 ## Building an Online Resume
 First thing is first, if I want to have a professional online presence, I figured I should start with my resume. Its been a long time since I last played around with web-design, so I would like to keep things plain and simple. Fortunately some great new tools have come around over the years that let me get up and running withought having to refresh my HTML/CSS knowledge! Tools like [Hugo](https://gohugo.io), [Jekyll](https://jekyllrb.com) and [Hexo](https://hexo.io) make it quick and easy to build a static website, and services like [GitHub Pages](https://pages.github.com/) and [Forge](https://getforge.com) allow you to quickly host your site for free. I chose to use Hugo and GitHub Pages to build and host my site, because I love the simplicity and power of Hugo (largely thanks to GoLang running under the hood) and as a developer I am already very familiar with using git & GitHub.
 
-First step to setting up my resume involved choosing a fitting site theme. Hugo has several themes to choose from [here](https://themes.gohugo.io/), but I ultimately landed on the [Orbit](https://themes.gohugo.io/hugo-orbit-theme/) for a resume/CV. I won't go into full detail about how to setup a Hugo site, because there is already a great tutorial [here](https://gohugo.io/getting-started/quick-start/). After getting a basic site setup with the theme I selected, I was immediately able to generate the website and preview it in my browser with the following command:
+First step to setting up my resume involved choosing a fitting site theme. Hugo has several themes to choose from [here](https://themes.gohugo.io/), but I ultimately landed on the [Orbit theme](https://themes.gohugo.io/hugo-orbit-theme/) for a resume/CV. I won't go into full detail about how to setup a Hugo site, because there is already a great tutorial [here](https://gohugo.io/getting-started/quick-start/). After getting a basic site setup with the theme I selected, I was immediately able to generate the website and preview it in my browser with the following command:
 ```
 hugo server --buildDrafts
 ```
@@ -73,8 +73,11 @@ Your website should now be live and viewable on your github pages account:
 
 > `<user-name>.github.io/<repository-name>`
 
-As a finishing touch, you may choose to get a personalized domain name, as I did (`johnboyd.io`). I purchased my domain name at [1and1](https://1and1.com), but there are many other affordable choices. With a domain name in hand, you just need to add a CNAME record to your domain AND GitHub project. Hui Jing has a great walkthrough [here](https://www.chenhuijing.com/blog/setting-up-custom-domain-github-pages/).
+As a finishing touch, you may choose to get a personalized domain name, as I did ([resume.johnboyd.io](http://resume.johnboyd.io)). I purchased my domain name at [1and1](https://1and1.com), but there are many other affordable choices. With a domain name in hand, you just need to add a CNAME record to your domain AND GitHub project. Hui Jing has a great walkthrough [here](https://www.chenhuijing.com/blog/setting-up-custom-domain-github-pages/).
+
+## Setting Up a Project Blog
+One last step to complete my online presence was to setup this blog, where I can log my projects. Fortunately, this process is very similar to the process of setting up the resume site. In fact, the only difference was to pick a different Hugo theme ([Blackburn theme](https://themes.gohugo.io/blackburn/) in this case) and setup a different GitHub repository to host this site at my [blog.johnboyd.io](http://blog.johnboyd.io) URL. After doing that, all that was left was to add some project posts to my blog, which I am doing right now :) You can find a good explanation about how blog posts work in Hugo [here](https://gohugo.io/getting-started/quick-start/#step-4-add-some-content), but you should find it pretty simple, especially if you are familiar with [markdown](https://en.wikipedia.org/wiki/Markdown).
 
 ## Resources
-1. You can find the full source code for my resume site [here](https://github.com/phreaknik/resume).
-2. You can find the full source code for my blog site [here](https://github.com/phreaknik/blog.johnboyd.io).
+1. Full source code for my resume site [here](https://github.com/phreaknik/resume).
+1. Full source code for my blog site [here](https://github.com/phreaknik/blog.johnboyd.io).
