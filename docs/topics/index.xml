@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on blog.johnboyd.io</title>
+    <title>Topics on Project Logs</title>
     <link>http://blog.johnboyd.io/topics/</link>
-    <description>Recent content in Topics on blog.johnboyd.io</description>
+    <description>Recent content in Topics on Project Logs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017, John Boyd IV.&lt;br&gt; All rights reserved.</copyright>
