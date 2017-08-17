@@ -77,6 +77,8 @@ As a finishing touch, you may choose to get a personalized domain name, as I did
 ## Setting Up a Project Blog
 One last step to complete my online presence was to setup this blog, where I can log my projects. Fortunately, this process is very similar to the process of setting up the resume site. In fact, the only difference was to pick a different Hugo theme ([Blackburn theme](https://themes.gohugo.io/blackburn/) in this case) and setup a different GitHub repository to host this site at my [blog.johnboyd.io](http://blog.johnboyd.io) URL. After doing that, all that was left was to add some project posts to my blog, which I am doing right now :) You can find a good explanation about how blog posts work in Hugo [here](https://gohugo.io/getting-started/quick-start/#step-4-add-some-content), but you should find it pretty simple, especially if you are familiar with [markdown](https://en.wikipedia.org/wiki/Markdown).
 
+And thats it! With the help of a few amazing free tools and services, I was able to get a basic resume and blog setup! I look forward to documenting my adventures here in the future, so stay tuned!
+
 ## Resources
 1. [Full source code for my resume site](https://github.com/phreaknik/resume).
 1. [Full source code for my blog site](https://github.com/phreaknik/blog.johnboyd.io).
