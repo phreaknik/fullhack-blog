@@ -7,28 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2018, John Boyd IV. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://blog.johnboyd.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blogging</title>
-      <link>http://blog.johnboyd.io/tags/blogging/</link>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.johnboyd.io/tags/blogging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://blog.johnboyd.io/tags/hugo/</link>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.johnboyd.io/tags/hugo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
