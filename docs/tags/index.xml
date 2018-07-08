@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Project Logs</title>
+    <title>Tags on blog.johnboyd.io</title>
     <link>http://blog.johnboyd.io/tags/</link>
-    <description>Recent content in Tags on Project Logs</description>
+    <description>Recent content in Tags on blog.johnboyd.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017, John Boyd IV.&lt;br&gt; All rights reserved.</copyright>
+    <copyright>© 2018, John Boyd IV. All rights reserved.</copyright>
     <lastBuildDate>Wed, 09 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://blog.johnboyd.io/tags/index.xml" rel="self" type="application/rss+xml" />

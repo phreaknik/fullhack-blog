@@ -36,12 +36,6 @@
   </url>
   
   <url>
-    <loc>http://blog.johnboyd.io/</loc>
-    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.johnboyd.io/tags/</loc>
     <lastmod>2017-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -49,6 +43,12 @@
   
   <url>
     <loc>http://blog.johnboyd.io/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.johnboyd.io/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project Logs</title>
+    <title>blog.johnboyd.io</title>
     <link>http://blog.johnboyd.io/</link>
-    <description>Recent content on Project Logs</description>
+    <description>Recent content on blog.johnboyd.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017, John Boyd IV.&lt;br&gt; All rights reserved.</copyright>
+    <copyright>© 2018, John Boyd IV. All rights reserved.</copyright>
     <lastBuildDate>Wed, 09 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://blog.johnboyd.io/index.xml" rel="self" type="application/rss+xml" />
@@ -28,7 +28,7 @@ I have recently spent a bit of time improving my online presence.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blog.johnboyd.io/about/</guid>
-      <description>Hello! My name is John Boyd. I am an electrical engineer by trade and a hacker at heart. I worked in the semiconductor industry for a few years as an analog &amp;amp; mixed signal design engineer, but lately my career has followed my passion for embedded systems design. I now work as CTO and lead hardware engineer at Knocki, a fun startup trying new ideas in the IoT space.</description>
+      <description>I am an electrical engineer that has worked in fields ranging from analog &amp;amp; mixed signal VLSI design, to systems engineering and embedded system design. After a few years in the semiconductor industry, I left to try my hand at smaller startups where I could have more creative influence in the projects I worked on. I also have a strong passion for P2P systems, with a particular interest in blockchain technologies.</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@ I have recently spent a bit of time improving my online presence.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blog.johnboyd.io/contact/</guid>
-      <description> Feel free to reach out to me via email at johnboydiv@gmail.com. Connect with me on LinkedIn. Check out my Resume.  </description>
+      <description> Shoot me an email at johnboydiv@gmail.com. Connect with me on LinkedIn.  </description>
     </item>
     
   </channel>
