@@ -5,25 +5,6 @@ sidemenu = "true"
 description = "About me and this site"
 +++
 
-{{< img-post 
-    path="/img/"
-    file="headshot.png"
-    alt="John Boyd headshot photo"
-    type="center" >}}
+I am an electrical engineer that has worked in fields ranging from analog & mixed signal VLSI design, to systems engineering and embedded system design. After a few years in the semiconductor industry, I left to try my hand at smaller startups where I could have more creative influence in the projects I worked on. I also have a strong passion for P2P systems, with a particular interest in blockchain technologies. This has led me to join [Grid+](https://gridplus.io) to help build secure hardware to transact with the blockchain.
 
-Hello! My name is John Boyd. I am an electrical engineer by trade and a hacker at heart. I worked in the semiconductor industry for a few years as an analog & mixed signal design engineer, but lately my career has followed my passion for embedded systems design. I now work as CTO and lead hardware engineer at <a href="https://www.knocki.com/" target="_blank">Knocki</a>, a fun startup trying new ideas in the IoT space.
-
-I have created this blog as a place to document my journeys through technology development and hardware hacking. I am not sure what projects will make it into this blog, but any of the following subjects are likely to make an appearance:
-
-* Embedded Systems Design
-  * Using C/C++ or Rust
-  * For ARM, MSP430, Atmel/AVR, and other MCUs
-* PCB Design, Schematic Capture, Layout & Fabrication
-* Machine Learning
-* Signal Processing (analog, digital & mixed)
-* VLSI Design
-* Reverse Engineering
-* Mathematics
-* 3D Printing
-
-I hope you enjoy these projects as much as I do!
+I have created this blog as a place to share my ideas and document some projects I work on. Please don't hesitate to reachout if you have any comments on my work!
