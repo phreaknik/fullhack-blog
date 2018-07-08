@@ -1,9 +1,9 @@
 baseurl = "http://blog.johnboyd.io/"
 languageCode = "en-us"
-title = "Project Logs"
-theme = "blackburn"
+title = "blog.johnboyd.io"
+theme = "er"
 author = "John Boyd IV"
-copyright = "&copy; 2017, John Boyd IV.<br> All rights reserved."
+copyright = "© 2018, John Boyd IV. All rights reserved."
 canonifyurls = true
 paginate = 10
 publishDir = "docs"
@@ -13,14 +13,7 @@ publishDir = "docs"
   topic = "topics"
 
 [params]
-  # Shown in the home page
-  subtitle = "Solder | Code | GPIOs"
-  brand = "John Boyd IV"
   googleAnalytics = "UA-103090041-2"
-  disqus = "blog-johnboyd-io"
-  # CSS name for highlight.js
-  highlightjs = "androidstudio"
-  dateFormat = "02 Jan 2006"
 
 [menu]
   # Shown in the side menu.
@@ -30,12 +23,6 @@ publishDir = "docs"
     weight = 1
     identifier = "home"
     url = "/"
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 2
-    identifier = "post"
-    url = "/post/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
@@ -48,13 +35,7 @@ publishDir = "docs"
     weight = 4
     url = "/contact/"
   [[menu.main]]
-    name = "Resume"
+    name = "Github"
     pre = "<i class='fa fa-id-card-o fa-fw'></i>"
     weight = 5
-    url = "http://resume.johnboyd.io/"
-
-[social]
-  # Link your social networking accouns to the side menu
-  # by entering your username or ID.
-  github = "phreaknik"
-  linkedin = "john-boyd-iv"
+    url = "https://github.com/phreaknik/"
